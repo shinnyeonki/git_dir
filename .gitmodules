@@ -37,3 +37,15 @@
 [submodule "java/ezen_this_is_java"]
 	path = java/ezen_this_is_java
 	url = git@github.com:BAEKJungHo/ezen_java_lecture.git
+[submodule "os/mikanos"]
+	path = os/mikanos
+	url = git@github.com:uchan-nos/mikanos.git
+[submodule "os/mikanos-build"]
+	path = os/mikanos-build
+	url = git@github.com:uchan-nos/mikanos-build.git
+[submodule "algoritm/algorithm-interview"]
+	path = algoritm/algorithm-interview
+	url = git@github.com:onlybooks/algorithm-interview.git
+[submodule "algoritm/basic-algo-lecture"]
+	path = algoritm/basic-algo-lecture
+	url = git@github.com:encrypted-def/basic-algo-lecture.git
