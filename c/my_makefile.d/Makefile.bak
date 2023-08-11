@@ -1,0 +1,16 @@
+CC = gcc # C Compiler
+TARGET = app # Target file name
+OBJECTS = main.o library.o # Object files
+
+
+$(TARGET) : main.o library.o
+	$(CC) -o $(TARGET) $(OBJECTS)
+
+main.o : main.c
+	$(CC) -c main.c
+
+library.o : library.c
+	$(CC) -c library.c
+
+clean :
+	rm -f $(TARGET) $(OBJECTS)

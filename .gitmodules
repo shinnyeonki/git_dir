@@ -1,0 +1,39 @@
+[submodule "c/cjungsuk"]
+	path = c/cjungsuk
+	url = git@github.com:castello/cjungsuk.git
+[submodule "java/stream-quiz"]
+	path = java/stream-quiz
+	url = git@github.com:MangKyu/stream-quiz.git
+[submodule "java/ezen_java_lecture"]
+	path = java/ezen_java_lecture
+	url = git@github.com:BAEKJungHo/ezen_java_lecture.git
+[submodule "java/original_this_is_java"]
+	path = java/original_this_is_java
+	url = git@github.com:benigndeus/ThisIsJava.git
+[submodule "java/1_this_is_java"]
+	path = java/1_this_is_java
+	url = git@github.com:benigndeus/ThisIsJava.git
+[submodule "java/2_this_is_java"]
+	path = java/2_this_is_java
+	url = git@github.com:ghd075/IT_JAVA_EX.git
+[submodule "java/Java-Game-Brick-Breaker"]
+	path = java/Java-Game-Brick-Breaker
+	url = git@github.com:awaismirza/Java-Game-Brick-Breaker.git
+[submodule "shell/zsh-git-prompt"]
+	path = shell/zsh-git-prompt
+	url = git@github.com:olivierverdier/zsh-git-prompt.git
+[submodule "shell/mastering-zsh"]
+	path = shell/mastering-zsh
+	url = git@github.com:rothgar/mastering-zsh.git
+[submodule "shell/spaceship-prompt"]
+	path = shell/spaceship-prompt
+	url = git@github.com:spaceship-prompt/spaceship-prompt.git
+[submodule "c++/2022-2-OOP"]
+	path = c++/2022-2-OOP
+	url = git@github.com:SougHYH/2022-2-OOP.git
+[submodule "c/makefile-tutorial"]
+	path = c/makefile-tutorial
+	url = git@github.com:lifeissweetgood/makefile-tutorial.git
+[submodule "java/ezen_this_is_java"]
+	path = java/ezen_this_is_java
+	url = git@github.com:BAEKJungHo/ezen_java_lecture.git
